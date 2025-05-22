@@ -36,6 +36,3 @@ Mobile-first responsive design
 
 Loom video
 https://www.loom.com/share/e061bdbd32d741bbac800d5d558233aa
-
-Live url :
-https://flourishing-tartufo-9040fe.netlify.app/
